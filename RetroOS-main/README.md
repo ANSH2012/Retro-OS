@@ -2,7 +2,7 @@
 
 RetroOS is a handcrafted single-page operating system sandbox that recreates a retro desktop operating system in the browser with vanilla HTML, CSS, and JavaScript. The app combines draggable windows, a Finder-style file browser, a stateful terminal shell, an in-app web browser, lore-heavy mail, and Redis-backed community apps without introducing a framework.
 
-![Desktop Overview](assets/screenshots/Demo1.png)
+
 
 ## Highlights
 
@@ -14,7 +14,7 @@ RetroOS is a handcrafted single-page operating system sandbox that recreates a r
 - Guestbook and Notice Board backed by Upstash Redis, including retro loading states and guestbook emoji insertion.
 - Settings window for built-in wallpapers, classic grayscale mode, and custom wallpaper uploads.
 
-![Licences and System Info](assets/screenshots/Licences.png)
+
 
 ## Stack
 
@@ -49,14 +49,14 @@ Check the repo notes in `.skills/retro-os/` before changing architecture or desi
 
 ## Screenshots
 
-![Music and Apps](assets/screenshots/Demo2.png)
+
 
 ## Contact
 
 - Live Sandbox: [abhinavkuchhal.com](https://abhinavkuchhal.com)
-- GitHub: [@JustPratiyush](https://github.com/JustPratiyush)
-- X: [@JustPratiyush](https://x.com/JustPratiyush)
-- Instagram: [@abhinavkuchhal7](https://www.instagram.com/abhinavkuchhal7/)
-- LinkedIn: [abhinav-kuchhal](https://www.linkedin.com/in/abhinav-kuchhal/)
+- GitHub: [@ANSH2012](https://github.com/ANSH2012)
+- X: [@PlayerDude011](https://x.com/PlayerDude011)
+- Instagram: [@_4nsh.xe](https://www.instagram.com/_4nsh.xe/)
+- LinkedIn: [ANSH](https://www.linkedin.com/in/ansh2024/)
 
 Inspired by classic operating systems. This project is a creative tribute and is not affiliated with Apple Inc.
