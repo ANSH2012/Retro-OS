@@ -1,0 +1,7 @@
+{
+  "watch": [
+    "server.js",
+    "../api"
+  ],
+  "ext": "js,mjs,cjs,json"
+}

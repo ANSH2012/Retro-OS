@@ -1,0 +1,105 @@
+/* --- Projects Window --- */
+.projects-window-content {
+  display: flex;
+  height: 100%;
+  padding: 0;
+  background: #fff;
+  /* Set font once for all children to inherit */
+  font-family: "VT323", monospace;
+}
+
+/* --- Sidebar Column --- */
+.projects-sidebar {
+  width: 220px;
+  flex-shrink: 0;
+  padding: 5px;
+  background: #e0e0e0;
+  border-right: 2px solid #000;
+  overflow-y: auto;
+}
+.sidebar-project-item {
+  padding: 12px 10px;
+  border-bottom: 1px solid #ccc;
+  cursor: pointer;
+  transition: background-color 0.1s ease;
+}
+.sidebar-project-item:hover {
+  background: #e0e0e0;
+}
+.sidebar-project-item.active {
+  background: #000;
+  color: #fff;
+}
+.sidebar-project-item h4 {
+  margin: 0 0 4px 0;
+  font-size: 16px;
+}
+.sidebar-project-item p {
+  margin: 0;
+  font-size: 12px;
+  opacity: 0.7;
+}
+
+/* --- Main Content Column --- */
+.projects-main {
+  flex-grow: 1;
+  padding: 25px;
+  overflow-y: auto;
+  position: relative; /* Added for mobile button positioning */
+}
+.project-title {
+  font-size: 28px;
+  margin: 0 0 5px 0;
+}
+.project-date {
+  font-size: 16px;
+  color: #666;
+  margin: 0 0 15px 0;
+}
+.project-description {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+.project-tech {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 25px;
+}
+.project-tech span {
+  padding: 4px 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background: #e0e0e0;
+  font-size: 14px;
+  font-weight: bold;
+}
+.project-buttons {
+  display: flex;
+  gap: 15px;
+  margin-top: 20px;
+}
+.btn-retro {
+  display: inline-block;
+  padding: 10px 20px;
+  border: 3px solid #000;
+  box-shadow: 5px 5px 0 rgba(0, 0, 0, 0.9);
+  font-weight: 700;
+  font-size: 16px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.1s ease;
+}
+.btn-retro:active {
+  transform: translate(2px, 2px);
+  box-shadow: 3px 3px 0 rgba(0, 0, 0, 0.9);
+}
+.btn-demo {
+  background-color: #4a90e2;
+  color: white;
+}
+.btn-code {
+  background-color: #333;
+  color: white;
+}
