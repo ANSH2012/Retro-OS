@@ -1,2 +1,0 @@
-# Retro-OS
-RETRO OS MADE BY ANSH
