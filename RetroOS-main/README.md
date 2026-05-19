@@ -47,13 +47,9 @@ RetroOS is intentionally framework-free. If you contribute:
 
 Check the repo notes in `.skills/retro-os/` before changing architecture or design patterns.
 
-## Screenshots
-
-
 
 ## Contact
 
-- Live Sandbox: [abhinavkuchhal.com](https://abhinavkuchhal.com)
 - GitHub: [@ANSH2012](https://github.com/ANSH2012)
 - X: [@PlayerDude011](https://x.com/PlayerDude011)
 - Instagram: [@_4nsh.xe](https://www.instagram.com/_4nsh.xe/)
