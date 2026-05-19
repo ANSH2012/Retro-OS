@@ -2,7 +2,13 @@
 
 RetroOS is a handcrafted single-page operating system sandbox that recreates a retro desktop operating system in the browser with vanilla HTML, CSS, and JavaScript. The app combines draggable windows, a Finder-style file browser, a stateful terminal shell, an in-app web browser, lore-heavy mail, and Redis-backed community apps without introducing a framework.
 
+## Screenshots
 
+<img src="assets/idk2.png" alt="App Dashboard Screenshot" width="500">
+<img src="assets/idk3.png" alt="App Dashboard Screenshot" width="500">
+<img src="assets/idk4.png" alt="App Dashboard Screenshot" width="500">
+<img src="assets/idk5.png" alt="App Dashboard Screenshot" width="500">
+<img src="assets/openGraph.png" alt="App Dashboard Screenshot" width="500">
 
 ## Highlights
 
