@@ -4,11 +4,11 @@ RetroOS is a handcrafted single-page operating system sandbox that recreates a r
 
 ## Screenshots
 
+<img src="RetroOS-main/assets/screenshots/openGraph.png" alt="App Dashboard Screenshot" width="500">
 <img src="RetroOS-main/assets/screenshots/idk2.png" alt="App Dashboard Screenshot" width="500">
 <img src="RetroOS-main/assets/screenshots/idk3.png" alt="App Dashboard Screenshot" width="500">
 <img src="RetroOS-main/assets/screenshots/idk4.png" alt="App Dashboard Screenshot" width="500">
 <img src="RetroOS-main/assets/screenshots/idk5.png" alt="App Dashboard Screenshot" width="500">
-<img src="RetroOS-main/assets/screenshots/openGraph.png" alt="App Dashboard Screenshot" width="500">
 
 ## Highlights
 
